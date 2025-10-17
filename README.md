@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year student at Politehnica Timișoara, in the Faculty of Automatică și Calculatoare, section CTI-RO. I
+I am a third-year student at Politehnica Timișoara, in the Faculty of Automatică și Calculatoare, section CTI-RO. I
 describe myself as an active, hardworking, and sociable person, looking for new teams to share ideas and gain new
 information. My main goal is to learn new concepts in Computer Science, practice, and improve the skills I have
 learned so far. 
