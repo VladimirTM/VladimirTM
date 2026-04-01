@@ -89,8 +89,10 @@ Led the software team for the **FTC 2021–2022** competition. Taught myself Jav
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladimirtm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirtm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vladimirtm&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladimirtm&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladimirtm&theme=github_dark" />
 
 </div>
 
